@@ -1,0 +1,16 @@
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\bin\Debug\net8.0-windows\KeyBoard.exe
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\bin\Debug\net8.0-windows\KeyBoard.deps.json
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\bin\Debug\net8.0-windows\KeyBoard.runtimeconfig.json
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\bin\Debug\net8.0-windows\KeyBoard.dll
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\bin\Debug\net8.0-windows\KeyBoard.pdb
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.Form1.resources
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.csproj.GenerateResource.cache
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.AssemblyInfoInputs.cache
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.AssemblyInfo.cs
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.csproj.CoreCompileInputs.cache
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.dll
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\refint\KeyBoard.dll
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.pdb
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\KeyBoard.genruntimeconfig.cache
+C:\Users\Niranga Nayanajith\source\repos\KeyBoard\obj\Debug\net8.0-windows\ref\KeyBoard.dll
